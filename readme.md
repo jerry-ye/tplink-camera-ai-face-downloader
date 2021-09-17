@@ -17,4 +17,4 @@ The scipt is tested with TL-IPC43AN AI 2.0 only.
     --host TP-Link Camera IP 摄像头IP地址，一般是局域网IP
     --http_port TP-Link Camera IP HTTP PORT default is 80/8080 摄像头端口 默认一般是80 
     --rtsp_port TP-Link Camera IP RTSP PORT default is 554 RTSP端口默认是554
-    --upload_url Upload downloaded pictures to this server, file field is image 如果设置上传地址，当有新的脸部照片将会上传到指定服务器，字段名称 image
+    --upload_url Upload downloaded pictures(image) to this server
