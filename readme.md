@@ -1,12 +1,12 @@
 
-TP LINK TL IPC43AN AI Verison 2.0 Faces Downloader Cli
-
+TP LINK TL IPC43AN AI(TL-IPC43AN AI版) Verison 2.0 Faces Downloader Cli
 
 A missed function from TP Link AI camera, and its backend function to download the faces only works IE! so create this script for quick to fetch the spefic date times period faces. 
 
-The scipt is tested with TL-IPC43AN AI 2.0 only.
-仅在TL-IPC43AN 300万AI云台无线网络摄像机测试过
-TL-IPC43AN AI版
+The scipt is tested with TL-IPC43AN AI 2.0 only.   
+仅在TL-IPC43AN 300万 AI云台无线网络摄像机测试过 
+
+
 
     Usage:
 
